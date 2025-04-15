@@ -1,0 +1,11 @@
+$_SERVER
+
+$_GET
+
+$_POST
+
+$_COOKIE
+
+$_SESSION
+
+$_FILES
