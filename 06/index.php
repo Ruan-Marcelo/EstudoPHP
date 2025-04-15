@@ -1,4 +1,7 @@
 $_SERVER
+<?php
+echo $_SERVER['SERVER_NAME'];
+?>
 
 $_GET
 
